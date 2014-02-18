@@ -26,10 +26,12 @@ And H is a function that computes the <i>Hamilton Product</i> of a vector and a 
 
 Let q1 = a + bi + cj + dk, and q2 = w + xi + yj + zk, then the hamilton product is:
 
+```
    a\*w - b\*x - c\*y - d\*z
 + (a\*x + b\*w + c\*z - d\*y)i
 + (a\*y - b\*z + c\*w + d\*x)j
 + (a\*z + b\*y - c\*x + d\*w)k
+```
 
 The i, j, and k components of the new quaternion are the new position vector. The 'real' number portion of the quaternion, that does not have i, j or k is not important and may be discarded.  
 
