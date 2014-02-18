@@ -4,9 +4,11 @@ Your task is to develop a program that reads in a discolored "broken" image, and
 
 You will be using the ppm image format, with ASCII encoding, which is very simple. You will need a ppm image viewer to properly view the image format. A hex editor might also be useful, but it is not required. The following are a set of image viewers that you may employ to view the ppm file format on your respected system.
 
+```
 Windows Users: IrfanView
 OSX Users: ToyViewer
 Linux Users: The default image viewer should work fine. 
+```
 
 This is a reverse engineering problem. Try to find patterns and determine what the algorithm was used to encode this! Hint: It's quite simple. 
 
