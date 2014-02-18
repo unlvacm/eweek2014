@@ -28,7 +28,7 @@ Your input will consist of the image name, with a .ppm extension. Your program m
 Your output will be the corrected image, and the file name is always: "imageFixed.ppm"
 
 #### Sample Input
-![Shibe Scrambled](https://dl.dropboxusercontent.com/u/57428882/shibe_scrambled.ppm)
+![Shibe Scrambled](https://dl.dropboxusercontent.com/u/57428882/shibe_scrambled.jpg)
 
 #### Sample Output
-![Shibe Fixed](https://dl.dropboxusercontent.com/u/57428882/imageFixed2.ppm)
+![Shibe Fixed](https://dl.dropboxusercontent.com/u/57428882/imageFixed2.jpg)
