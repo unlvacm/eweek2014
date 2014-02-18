@@ -1,0 +1,11 @@
+Index:
+ Ant: 1 4
+ Dove: 2 5 7
+ drink: 1
+ life: 7
+ river: 1 3
+ small bough: 3
+ stung: 5
+
+Missing Terms:
+ hunter
