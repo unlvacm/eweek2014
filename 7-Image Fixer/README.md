@@ -1,4 +1,5 @@
 # Problem 7: Image Fixer
+## *400 Points*
 
 Your task is to develop a program that reads in a discolored "broken" image, and outputs the original fixed image. 
 
@@ -10,7 +11,7 @@ OSX Users: ToyViewer
 Linux Users: The default image viewer should work fine. 
 ```
 
-This is a reverse engineering problem. Try to find patterns and determine what the algorithm was used to encode this! Hint: It's quite simple. 
+This is a reverse engineering problem. Try to find patterns and determine what the algorithm was used to encode this! 
 
 The PPM format consists of 'P3' on the first line. The width and height separated by spaces on the second line, and the color encoding scheme, which will always be '255' for our purposes. All of the data after is triplets of RGB encoded integers from 0 to 255, representing a pixel. Here is an example:
 

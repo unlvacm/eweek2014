@@ -1,4 +1,5 @@
 # Problem 5: Creating an Index
+## *200 Points*
 
 You are working for a publisher who wants to create indices for all of his passages. Each passage fits on one page, but spans multiple lines. For each passage, your boss has given you a list of terms. You have been tasked with creating a program that reads in the terms, and outputs the line numbers for which all of those terms appear. You are also required to provide a list of any terms not found in the passage.
 
@@ -14,6 +15,8 @@ In the instance of phrases (e.g., small bough), you can assume that when searchi
 You can also assume that the type case of the word is exactly the type case that will appear in the text. Thus, if you are given the word "river", you do not have to worry about cases of "River" such as would be found at the beginning of a sentence. Similarly, if you are given "Ant" you can ignore instances of "ant". 
 
 No error checking required. All input will be valid.
+
+Program will be tested using Linux redirection. (e.g., $ ./a.out < sample-input.txt )
 
 ### Sample Input
 ```

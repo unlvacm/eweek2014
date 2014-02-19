@@ -1,4 +1,5 @@
 # Problem 6: Quaternion Rotations
+## *200 Points*
 
 You're a fresh new game designer working at Bungie, developing their next big title, Destiny. To ensure the game's demanding graphics can be played efficiently on a PC that doesn't cost more than your car, you've been given the task of optimizing the game's renderer (a program that draws the graphics on the screen) to improve performance. 
 

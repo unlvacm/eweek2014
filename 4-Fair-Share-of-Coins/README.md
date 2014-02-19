@@ -1,4 +1,5 @@
 # Problem 4: Fair Division of Coins
+## *300 Points*
 
 Given a bag with a maximum of 100 coins, determine how close the most fair division between two persons can be. This means that the difference between the amount each person obtains should be minimized. 
 
@@ -18,6 +19,8 @@ The output consists of *n* lines. Each line contains the minimal positive differ
 
 ### Assumptions
 No error checking required. All input will be valid.
+
+Program will be tested using Linux redirection. (e.g., $ ./a.out < sample-input.txt )
 
 ### Sample Input
 ```

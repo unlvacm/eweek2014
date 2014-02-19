@@ -1,4 +1,5 @@
 # Problem 2: Self Powers
+## *100 Points*
 
 The series 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 

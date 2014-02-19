@@ -1,4 +1,5 @@
 # Problem 3: Power Crisis
+## *200 Points*
 
 During the power crisis in New Zealand this winter, a contingency scheme was developed to turn off the power to areas of the country in a systematic, seemingly fair, manner. The country was divided up into N regions (Auckland was region number 1, and Wellington number 13). A number, m, would be picked `at random', and the power would first be turned off in region 1 and then in every m'th region after that, wrapping around to 1 after N, and ignoring regions already turned off. For example, if N = 17 and m = 5, power would be turned off to the regions in the order: 1,6,11,16,5,12,2,9,17,10,4,15,14,3,8,13,7.
 
@@ -14,6 +15,8 @@ Output will consist of a series of lines, one for each line of the input. Each l
 
 ### Assumptions
 No error checking required. All input will be valid.
+
+Program will be tested using Linux redirection. (e.g., $ ./a.out < sample-input.txt )
 
 ### Sample Input
 ```
