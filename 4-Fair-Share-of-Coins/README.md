@@ -24,15 +24,18 @@ Program will be tested using Linux redirection. (e.g., $ ./a.out < sample-input.
 
 ### Sample Input
 ```
-2
+3
 3
 2 3 5
 4
 1 2 4 6
+6
+5 5 3 3 3 1
 ```
 ### Sample Output
 
 ```
 0
 1
+0
 ```
